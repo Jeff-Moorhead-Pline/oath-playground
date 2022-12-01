@@ -1,0 +1,8 @@
+{
+    "authorization_uri": "https://oauth.mocklab.io/oauth/authorize",
+    "token_uri": "https://oauth.mocklab.io/oauth/token",
+    "user_info_uri": "https://oauth.mocklab.io/userinfo",
+    "jwks_uri": "https://oauth.mocklab.io/.well-known/jwks.json",
+    "client_id": "5U0wxFun9CKj4AbOxLLVbxW8",
+    "client_secret": "nT3bGFwfKZQhwoWv1Ubgh4PoDgR-3CNg5bCNn9MXlmQ9ehbO"
+}
